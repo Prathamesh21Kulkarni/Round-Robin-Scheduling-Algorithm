@@ -102,6 +102,7 @@ void MainWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
 
 const QMetaObject MainWindow::staticMetaObject = { {
     QMetaObject::SuperData::link<QMainWindow::staticMetaObject>(),
+    // qt_meta_stringdata_MainWindow.offsetsAndSize,
     qt_meta_stringdata_MainWindow.offsetsAndSize,
     qt_meta_data_MainWindow,
     qt_static_metacall,
