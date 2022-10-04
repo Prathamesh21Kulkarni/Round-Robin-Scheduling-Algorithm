@@ -304,24 +304,24 @@ public:
 "	border-image: url(://C:/Users/dell/Downloads/wp1904599-cpu-wallpapers.jpg);\n"
 "    background-image: rgba(0,0,0,80);\n"
 "}\n"
-"#page_2{\n"
-"	border-image: url(://C:/Users/dell/Downloads/wp1904599-cpu-wallpapers.jpg);\n"
-"    background-image: rgba(0,0,0,80);\n"
-"}\n"
-"QLabel{\n"
-" font-family:\"verdana\";\n"
-" font-size:18px;\n"
-"}\n"
-"QPushButton{\n"
-"background-color:#aee088;\n"
-"color:black;\n"
-"border-radius:5%;\n"
-"font-size:18px;\n"
-"}\n"
-"QPushButton:hover{\n"
-"background-color:#102e21;\n"
-"color:white;\n"
-"}"));
+#page_2{
+        border-image: url(://C:/Users/dell/Downloads/wp1904599-cpu-wallpapers.jpg);
+      background-image: rgba(0,0,0,80);
+    }
+    QLabel{
+    font-family:\"verdana\";
+    font-size:18px;
+    }
+    QPushButton{
+    background-color:#aee088;
+    color:black;
+    border-radius:5%;
+    font-size:18px;
+    }
+    QPushButton:hover{
+    background-color:#102e21;
+    color:white;
+    }));
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
         verticalLayout = new QVBoxLayout(centralwidget);
