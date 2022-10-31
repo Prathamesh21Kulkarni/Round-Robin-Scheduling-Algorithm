@@ -1,7 +1,10 @@
 # Round-Robin-Scheduling-Algorithm
-Shows the simulation of process scheduling using round robin algorithm
+Shows the simulation of process scheduling using round robin algorithm.
+Round Robin is the preemptive process scheduling algorithm. Each process is provided a fix time to execute, it is called a quantum. Once a process is executed for a given time period, it is preempted and other process executes for a given time period. Context switching is used to save states of preempted processes.
 
+### Home Window
 ![p1](https://user-images.githubusercontent.com/72391096/135706349-ec722a27-a94e-4e21-b23f-00e7f2225f40.png)
+
 
 <hr style="border:2px solid #ffffff"> </hr>
 
